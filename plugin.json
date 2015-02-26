@@ -1,0 +1,8 @@
+{
+    "description": "Minimal Plugin",
+    "command" : "",
+    "metrics" : [
+                 "BOUNDARY_MINIMAL_METRIC"
+                ]
+}
+
