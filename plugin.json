@@ -4,16 +4,6 @@
     "command" : "echo hello",
     "metrics" : [
                  "BOUNDARY_MINIMAL_METRIC"
-                ],
-   "paramSchema": [
-        {
-            "title": "Name",
-            "name": "name",
-            "description": "Name of this minimal metric configuration",
-            "type": "string",
-            "default": "",
-            "required": true
-        }
-   ]
+                ]
 }
 
