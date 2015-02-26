@@ -1,6 +1,5 @@
 {
     "description": "Minimal Plugin",
-    "icon": "icon.png",
     "command" : "echo hello",
     "metrics" : [
                  "BOUNDARY_MINIMAL_METRIC"
